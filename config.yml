@@ -4,7 +4,6 @@ title: AsMagnets
 theme: PaperMod
 
 params:
-
   defaultTheme: light
   disableThemeToggle: true
 
