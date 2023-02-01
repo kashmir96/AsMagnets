@@ -37,13 +37,16 @@ menu:
       name: Posts
       url: /posts/
       weight: 10
+      
+    - identifier: services
+      name: Services
+      url: /services/
+      weight: 20
 
     - identifier: contact
       name: Contact
       url: /contact
       weight: 60
-
-
 
 markup:
   goldmark:
