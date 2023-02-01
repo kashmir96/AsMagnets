@@ -1,6 +1,6 @@
 ---
-title: "Word Of Mouth Marketing"
-Description: ""Look no further for help with Word of Mouth Marketing for small to medium sized businesses! Improve your online presence and reputation with our simple, effective strategies.""
+title: Word Of Mouth Marketing
+Description: "Look no further for help with Word of Mouth Marketing for small to medium sized businesses! Improve your online presence and reputation with our simple, effective strategies."
 cover: 
  image: /img/pages/22.webp
  alt: ''
