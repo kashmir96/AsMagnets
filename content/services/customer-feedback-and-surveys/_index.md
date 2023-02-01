@@ -1,7 +1,9 @@
 ---
 title: "Customer Feedback And Surveys"
 Description: "Gain valuable customer feedback and surveys from small to medium-sized businesses that want to align their online presence and reputation with the needs of their customers. Get the insights you need to exceed customer expectations with a customer feedback and surveys program."
-
+cover: 
+ image: /img/pages/4.webp
+ alt: ''
 ---
 
 <h1>Customer Feedback and Surveys</h1><p>Start to build your strong online presence and reputation with our blueprint whitepaper explaining how to use Customer Feedback and Surveys for your business.</p><img src="/customer-feedback-survey.jpg" alt="Customer Feedback and Surveys"><a href="/report.pdf" class="btn btn-primary>Get your free step-by-step blueprint sent straight to your inbox below</a><h2>Blueprint Your Success with Customer Engagement</h2><div>    <h3>12 Key Areas</h3>    <p>Receive step-by-step actionable guides to learn how to optimally use your customer feedback:</p>    <img src="/key-areas-image.jpg" alt="Customer Feedback and Surveys">    <a href="/report.pdf" class="btn btn-primary>Get your free step-by-step blueprint sent straight to your inbox below</a></div><div>    <h3>Step-by-Step Actionable Guides</h3>    <p>Stay on track with the step by step guides to drive better business results and understand the best approach to customer feedback.</p>    <img src="/actionable-guides.jpg" alt="Customer Feedback and Surveys">    <a href="/report.pdf" class="btn btn-primary>Get your free step-by-step blueprint sent straight to your inbox below</a> </div><p><img src="/testimonial-image.jpg" alt="Customer Feedback and Surveys Testimonial">“We were able to get valuable customer insights to better inform our strategies and decisions” - Amelia Smith, CEO, Example Solutions Inc.</p><h2>Find Your Blueprint to Success with Customer Feedback and Surveys</h2><p>Don't delay! Get Your free blueprint today and improve your business's online presence and reputation. <a href="/report.pdf" class="btn btn-primary>Get your free step-by-step blueprint sent straight to your inbox below</a> </p>

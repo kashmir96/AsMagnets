@@ -1,7 +1,9 @@
 ---
 title: "Sms Marketing"
 Description: "Looking to improve your business' online presence and reputation? SMS Marketing can help! Try our services to promote your products, increase sales, and raise awareness - all with the power of text messages. Get started today with SMS Marketing!"
-
+cover: 
+ image: /img/pages/17.webp
+ alt: ''
 ---
 
 <h1>SMS Marketing</h1><p>Don't have time to figure out how to use SMS Marketing for your business? Our UVP, this Blueprint whitepaper, explains all the key areas to focus on, and provides step-by-step actionable guides to follow for better business results.</p><a href="/report.pdf" class="btn btn-primary">Get your free step-by-step blueprint sent straight to your inbox below</a><h2>Message Marketing Explained</h2><h3>12 Key Areas to Focus On</h3><p>To maximize your SMS Marketing results, our cheatsheet dives into the 12 key areas.</p><img src="/img/key-areas.jpg" alt="SMS Marketing Key Areas" /><a href="/report.pdf" class="btn btn-primary">Get your free step-by-step blueprint sent straight to your inbox below</a><h3>Step-by-step for Better Business Results</h3><p>We provide easy to understand and actionable guides on all the key areas to help marketers and businesses alike to get better results from SMS Marketing</p><img src="/img/results.jpg" alt="SMS Marketing Better Business Results" /><a href="/report.pdf" class="btn btn-primary">Get your free step-by-step blueprint sent straight to your inbox below</a><h2>Social Proof</h2><p>Don’t just take our word for it – see what other businesses have to say about using our SMS Marketing Cheatsheet to achieve their desired results.</p><img src='/img/social-proof.jpg' alt="Social Proof - SMS Marketing" /><h2>Ready to Build Your Business With SMS Marketing?</h2><p>This cheatsheet will help you reach, engage and convert customers quickly. So don’t wait,  <a href="/report.pdf" class="btn btn-primary">Get your free step-by-step blueprint sent straight to your inbox below.</a></p>

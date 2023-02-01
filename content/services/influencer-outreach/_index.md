@@ -1,7 +1,9 @@
 ---
 title: "Influencer Outreach"
 Description: "Grow your online presence and reputation through the power of Influencer Outreach! We provide tailored solutions for small to medium-sized businesses looking to leverage influencers to help boost their brand. Find out here how our services can help your business today."
-
+cover: 
+ image: /img/pages/11.webp
+ alt: ''
 ---
 
 <h1>Influencer Outreach</h1><p>Don't know where to start with your Influencer Outreach marketing?  Our FREE Blueprint whitepaper will give you a clear step-by-step path for your small to medium-sized business to improve their online presence and reputation.  <a class="btn btn-primary" href="/report.pdf">Get your free step-by-step blueprint sent straight to your inbox below</a> </p><h2>What To Expect From This Influencer Outreach Guide</h2><div>    <h3>12 Key Areas to Focus on Influencer Outreach</h3>    <p>Broaden your reach and build relationships with the right people - We will help you pinpoint 12 key areas to focus your influencer outreach strategies on.</p>    <img src="/keyareas.jpg" alt="key areas to focus on influencer outreach"></div><div>    <h3>Step-by-step Actionable Guide For Better Business Results </h3>    <p>Learn how to use authentic influencer-driven content that can help your business reach their desired outcomes. </p>    <img src="/influencerguide.jpg" alt="step-by-step actionable guide for better business results"></div><p>Over 80,000 small to medium-sized businesses have used our FREE Blueprint whitepaper to guide their influencer outreach strategies.  <img alt="social proof" src="/socialproof.jpg" alt="social proof"> </p><h2>Ready to Get Started?</h2><p>Simply click the button below and get your free step-by-step blueprint of how to use Influencer Outreach for your business.  <a class="btn btn-primary" href="/report.pdf">Get your free step-by-step blueprint sent straight to your inbox below</a> </p>

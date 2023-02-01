@@ -1,7 +1,9 @@
 ---
 title: "Influencer Marketing"
 Description: "Gain a competitive edge for your small or medium-sized business with Influencer Marketing. Learn about the benefits of influencer partnerships, strategies for success and steps to success for optimizing your online presence and reputation. It's the perfect way to elevate your brand to the next level."
-
+cover: 
+ image: /img/pages/10.webp
+ alt: ''
 ---
 
 <h1>Influencer Marketing</h1> <p>Grow your brand using influencer marketing, with our FREE one-off Blueprint whitepaper, you can easily learn the best strategies and tactics to use when it comes to Influencer Marketing, so you can see the benefits for your business.</p><a href="/report.pdf" class="btn btn-primary">Get your free step-by-step blueprint sent straight to your inbox below</a><h2>Learn how to master Influencer Marketing for your business</h2><p>This Blueprint whitepaper explains exactly how you can use Influencer Marketing to your benefit, with 12 key areas to focus on that are broken down into easy to follow and actionable guidelines, which will help to improve your online presence and reputation.</p><img src="/influencer.jpg" alt="Influencer Marketing" /><a href="/report.pdf" class="btn btn-primary">Get your free step-by-step blueprint sent straight to your inbox below</a><p>Influencer Marketing has been used by many successful businesses around the world and it can help you too! With social media channels being used more and more, it’s a great way to reach out to your customers and potential new ones too.</p><img src="/socialproof.jpg" alt="Influencer Marketing Success" /><h2>Start improving your business now</h2><p>Take advantage of the free Blueprint whitepaper and master Influencer Marketing for your business. Click the button below to get your free Blueprint whitepaper and start improving your online presence and reputation.</p><a href="/report.pdf" class="btn btn-primary">Get your free step-by-step blueprint sent straight to your inbox below</a>

@@ -1,7 +1,9 @@
 ---
 title: "Public Relations"
 Description: "This page provides Public Relations services to small to medium-sized businesses, helping to extend their online presence and enhance their reputation. Learn how our services can help to improve your public relations visibility and presence online."
-
+cover: 
+ image: /img/pages/13.webp
+ alt: ''
 ---
 
 <h1>Public Relations</h1><p>This blueprint whitepaper explains how small- to medium-sized businesses can use Public Relations to improve their online presence and reputation. Get your free step-by-step blueprint sent straight to your inbox below to learn how to effectively manage your public relations.</p><img src="public-relations.jpg" alt="Public Relations"/><a href="/report.pdf" class="btn btn-primary">Get your free step-by-step blueprint sent straight to your inbox below</a><h2>Get maximum results from Public Relations</h2><h3>Focus in 12 key areas</h3><p>Our guide explains the 12 key areas small- to medium-sized businesses need to focus on to maximize the effects of their public relations. Take advantage of our step-by-step actionable guides and start achieving better business results.</p><img src="actionable-guides.jpg" alt="Public Relations Actionable Guides"/><a href="/report.pdf" class="btn btn-primary">Get your free step-by-step blueprint sent straight to your inbox below</a><p><img src="social-proof.jp" alt="Social Proof"/></p><h2>Start improving your online presence today</h2><p>Don't wait until it's too late — download our Blueprint whitepaper to get all the information you need to start improving your online presence and reputation today. <a href="/report.pdf" class="btn btn-primary">Get your free step-by-step blueprint sent straight to your inbox below.</a></p>
